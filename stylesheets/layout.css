@@ -1,0 +1,58 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  width: 1440px;
+  display: block;
+  margin: 0 auto;
+  font-family: "Monoid";
+  background-color: #3d3d3f;
+}
+.section-1 {
+  display: flex;
+}
+.section-1 line {
+  width: 250px;
+  height: 6px;
+  background-color: white;
+  transform: rotate(45deg);
+  transform-origin: left center;
+}
+.section-1 img {
+}
+.section-2 {
+}
+.circle {
+  background-color: white;
+  width: 317px;
+  height: 317px;
+  margin: 146px 71px;
+  border-radius: 100%;
+  text-align: center;
+  display: block;
+  color: #ff7b72;
+  font-size: 234px;
+}
+.section-2 line1 {
+  width: 152px;
+  height: 6px;
+  background-color: white;
+  transform: rotate(-136.53deg);
+  transform-origin: left center;
+}
+p1 {
+  width: 243px;
+  display: block;
+  color: white;
+  margin: 78px 414px;
+}
+.section-3 h1 {
+  color: #ff7b72;
+  width: 115px;
+  margin: 740px 1626px;
+}
+.section-3 p11 {
+  width: 32px;
+  color: white;
+  margin: 34px 2137px;
+}
