@@ -1,0 +1,33 @@
+<svg width="358" height="297" viewBox="0 0 358 297" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_229_118" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="358" height="297">
+<rect width="358" height="297" transform="matrix(1 0 0 -1 0 297)" fill="white"/>
+</mask>
+<g mask="url(#mask0_229_118)">
+<line x1="172.552" y1="52.2997" x2="217.567" y2="14.0556" stroke="white" stroke-width="7"/>
+<line x1="252.707" y1="9.82066" x2="301.597" y2="10.2053" stroke="white" stroke-width="7"/>
+<line x1="338.279" y1="33.6924" x2="358.044" y2="74.8095" stroke="white" stroke-width="7"/>
+<line x1="133.792" y1="145.978" x2="147.461" y2="88.5143" stroke="white" stroke-width="7"/>
+<line x1="90.3599" y1="231.089" x2="121.447" y2="180.864" stroke="white" stroke-width="7"/>
+<line x1="29.988" y1="266.321" x2="85.5974" y2="246.408" stroke="white" stroke-width="7"/>
+<line x1="96.1197" y1="251.806" x2="114.245" y2="275.59" stroke="white" stroke-width="7"/>
+<line x1="146.113" y1="179.888" x2="180.517" y2="205.238" stroke="white" stroke-width="7"/>
+<line x1="203.939" y1="209.414" x2="240.757" y2="204.586" stroke="white" stroke-width="7"/>
+<line x1="251.484" y1="205.533" x2="267.177" y2="220.622" stroke="white" stroke-width="7"/>
+<line x1="248.583" y1="197.57" x2="249.791" y2="178.859" stroke="white" stroke-width="7"/>
+<line x1="88.0057" y1="24.6557" x2="137.481" y2="56.9218" stroke="white" stroke-width="7"/>
+<circle cx="150.5" cy="63.5" r="28.5" fill="#FFFEFE"/>
+<circle cx="132.5" cy="161.5" r="36.5" fill="#FFFEFE"/>
+<circle cx="86" cy="244" r="22" fill="#FFFEFE"/>
+<circle cx="25.5" cy="269.5" r="16.5" fill="#FFFEFE"/>
+<circle cx="114.5" cy="278.5" r="7.5" fill="#FFFEFE"/>
+<ellipse cx="225.5" cy="4" rx="28.5" ry="28" fill="#FFFEFE"/>
+<ellipse cx="329.5" cy="4" rx="36.5" ry="36" fill="#FFFEFE"/>
+<circle cx="377" cy="96" r="36" fill="#FFFEFE"/>
+<circle cx="359.5" cy="163.5" r="21.5" fill="#FFFEFE"/>
+<circle cx="187" cy="206" r="23" fill="#FFFEFE"/>
+<circle cx="247.5" cy="203.5" r="14.5" fill="#FFFEFE"/>
+<ellipse cx="252" cy="175.5" rx="7" ry="7.5" fill="#FFFEFE"/>
+<ellipse cx="269" cy="227.5" rx="11" ry="11.5" fill="#FFFEFE"/>
+<circle cx="68" cy="4" r="28" fill="#FFFEFE"/>
+</g>
+</svg>

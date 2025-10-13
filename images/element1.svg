@@ -1,0 +1,43 @@
+<svg width="423" height="388" viewBox="0 0 423 388" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_226_115" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="-206" width="743" height="594">
+<line x1="100.5" y1="36" x2="100.5" y2="94" stroke="white" stroke-width="7"/>
+<line x1="163.009" y1="-28.5987" x2="112.911" y2="2.69398" stroke="white" stroke-width="7"/>
+<line x1="235.822" y1="10.1046" x2="187.508" y2="-23.8756" stroke="white" stroke-width="7"/>
+<line x1="250.606" y1="90.227" x2="251.298" y2="31.1638" stroke="white" stroke-width="7"/>
+<line x1="203.552" y1="154.3" x2="248.567" y2="116.056" stroke="white" stroke-width="7"/>
+<line x1="283.707" y1="111.821" x2="332.597" y2="112.205" stroke="white" stroke-width="7"/>
+<line x1="368.048" y1="88.8269" x2="387.966" y2="47.7838" stroke="white" stroke-width="7"/>
+<line x1="393.674" y1="255.951" x2="397.295" y2="223.358" stroke="white" stroke-width="7"/>
+<line x1="369.279" y1="135.692" x2="389.044" y2="176.809" stroke="white" stroke-width="7"/>
+<line x1="164.792" y1="247.978" x2="178.461" y2="190.514" stroke="white" stroke-width="7"/>
+<line x1="121.36" y1="333.089" x2="152.447" y2="282.864" stroke="white" stroke-width="7"/>
+<line x1="60.988" y1="368.321" x2="116.597" y2="348.408" stroke="white" stroke-width="7"/>
+<line x1="127.12" y1="353.806" x2="145.245" y2="377.59" stroke="white" stroke-width="7"/>
+<line x1="177.113" y1="281.888" x2="211.517" y2="307.238" stroke="white" stroke-width="7"/>
+<line x1="234.939" y1="311.414" x2="271.757" y2="306.586" stroke="white" stroke-width="7"/>
+<line x1="282.484" y1="307.533" x2="298.177" y2="322.622" stroke="white" stroke-width="7"/>
+<line x1="279.583" y1="299.57" x2="280.791" y2="280.859" stroke="white" stroke-width="7"/>
+<line x1="257.023" y1="4.28633" x2="306.516" y2="-27.9537" stroke="white" stroke-width="7"/>
+<line x1="119.006" y1="126.656" x2="168.481" y2="158.922" stroke="white" stroke-width="7"/>
+<circle cx="98.5" cy="11.5" r="28.5" fill="#FFFEFE"/>
+<circle cx="181.5" cy="165.5" r="28.5" fill="#FFFEFE"/>
+<circle cx="163.5" cy="263.5" r="36.5" fill="#FFFEFE"/>
+<circle cx="117" cy="346" r="22" fill="#FFFEFE"/>
+<circle cx="56.5" cy="371.5" r="16.5" fill="#FFFEFE"/>
+<circle cx="145.5" cy="380.5" r="7.5" fill="#FFFEFE"/>
+<ellipse cx="251" cy="12.5" rx="28" ry="28.5" fill="#FFFEFE"/>
+<ellipse cx="256.5" cy="106" rx="28.5" ry="28" fill="#FFFEFE"/>
+<ellipse cx="360.5" cy="106" rx="36.5" ry="36" fill="#FFFEFE"/>
+<circle cx="408" cy="26" r="36" fill="#FFFEFE"/>
+<circle cx="408" cy="198" r="36" fill="#FFFEFE"/>
+<circle cx="390.5" cy="265.5" r="21.5" fill="#FFFEFE"/>
+<circle cx="218" cy="308" r="23" fill="#FFFEFE"/>
+<circle cx="278.5" cy="305.5" r="14.5" fill="#FFFEFE"/>
+<ellipse cx="283" cy="277.5" rx="7" ry="7.5" fill="#FFFEFE"/>
+<ellipse cx="300" cy="329.5" rx="11" ry="11.5" fill="#FFFEFE"/>
+<circle cx="99" cy="106" r="28" fill="#FFFEFE"/>
+</mask>
+<g mask="url(#mask0_226_115)">
+<rect width="358" height="297" transform="matrix(1 0 0 -1 21 387)" fill="white"/>
+</g>
+</svg>

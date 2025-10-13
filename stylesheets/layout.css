@@ -3,56 +3,327 @@
 }
 body {
   width: 1440px;
+  /* height: 9796px; */
   display: block;
   margin: 0 auto;
   font-family: "Monoid";
   background-color: #3d3d3f;
+  overflow-x: hidden;
 }
-.section-1 {
+/* .design {
+  width: 1440px;
   display: flex;
+} */
+
+/* вариант с картинкой */
+/* .section-1 {
+  position: relative;
+  width: 1281px;
+  height: 1619px;
+  background-image: url("../images/fon.svg");
+  background-size: cover;
 }
-.section-1 line {
-  width: 250px;
-  height: 6px;
-  background-color: white;
-  transform: rotate(45deg);
-  transform-origin: left center;
+
+.firstimg {
+  margin: auto;
+  justify-content: space-between;
+  position: relative;
 }
-.section-1 img {
+
+p {
+  position: relative;
+  top: 54px;
+  left: 213px;
+  font-size: 234px;
+  color: #ff7b72;
 }
 .section-2 {
+  display: flex;
+} */
+
+/* вариант без картинки */
+
+.section-1 {
+  position: relative;
 }
-.circle {
-  background-color: white;
-  width: 317px;
-  height: 317px;
-  margin: 146px 71px;
-  border-radius: 100%;
-  text-align: center;
-  display: block;
-  color: #ff7b72;
-  font-size: 234px;
+.section-1 {
+  .circle {
+    background-color: white;
+    width: 317px;
+    height: 317px;
+    border-radius: 100%;
+    text-align: center;
+    padding: 41.5px;
+    color: #ff7b72;
+    font-size: 234px;
+  }
+  .line {
+    height: 8px;
+    background-color: white;
+  }
+  p {
+    font-size: 234px;
+    color: #ff7b72;
+  }
 }
-.section-2 line1 {
-  width: 152px;
-  height: 6px;
-  background-color: white;
-  transform: rotate(-136.53deg);
-  transform-origin: left center;
+
+.circleOne {
+  position: absolute;
+  top: 30px;
+  left: 150px;
 }
-p1 {
-  width: 243px;
-  display: block;
+.circleTwo {
+  position: absolute;
+  top: 350px;
+  left: 500px;
+}
+.lineOne {
+  position: absolute;
+  top: 50px;
+  left: 0px;
+  width: 253px;
+  transform: rotate(29deg);
+}
+.lineTwo {
+  position: absolute;
+  top: 343px;
+  left: 170px;
+  width: 153px;
+  transform: rotate(136deg);
+}
+.lineThree {
+  position: absolute;
+  top: 490px;
+  left: 240px;
+  width: 465px;
+  transform: rotate(175deg);
+}
+.lineFour {
+  position: absolute;
+  top: 622px;
+  left: 240px;
+  width: 100px;
+  transform: rotate(-157deg);
+}
+.lineFive {
+  position: absolute;
+  top: 600px;
+  left: 480px;
+  width: 180px;
+  transform: rotate(139deg);
+}
+.lineSix {
+  position: absolute;
+  top: 383px;
+  left: 780px;
+  width: 180px;
+  transform: rotate(150deg);
+}
+.lineSeven {
+  position: absolute;
+  top: 383px;
+  left: 1085px;
+  width: 144px;
+  transform: rotate(-150deg);
+}
+.lineEight {
+  position: absolute;
+  top: 930px;
+  left: 470px;
+  width: 150px;
+  transform: rotate(-130deg);
+}
+.lineNine {
+  position: absolute;
+  top: 730px;
+  left: 665px;
+  width: 240px;
+  transform: rotate(-120deg);
+}
+.lineTen {
+  position: absolute;
+  top: 582px;
+  left: 1175px;
+  width: 133px;
+  transform: rotate(-78deg);
+}
+.oneP {
+  position: absolute;
+  top: 414px;
+  left: 78px;
+}
+.twoP {
+  position: absolute;
+  top: 650px;
+  left: 340px;
+}
+.threeP {
+  position: absolute;
+  top: 125px;
+  left: 938px;
+}
+.fourP {
+  position: absolute;
+  top: 272px;
+  left: 1232px;
+}
+.secondImg {
+  position: absolute;
+  top: -150px;
+  left: 1150px;
+}
+
+.section-2 {
+  position: relative;
+}
+.section-2 {
+  .circle {
+    background-color: #ff7b72;
+    width: 204px;
+    height: 204px;
+    border-radius: 100%;
+    text-align: center;
+    padding: 38px;
+    color: white;
+    font-size: 128px;
+  }
+  .line {
+    height: 8px;
+    background-color: white;
+  }
+  p {
+    font-size: 128px;
+    color: white;
+  }
+}
+.circleThree {
+  position: absolute;
+  top: 1200px;
+  left: 875px;
+}
+.lineEleven {
+  position: absolute;
+  top: 980px;
+  left: 705px;
+  width: 133px;
+  transform: rotate(-30deg);
+}
+.lineTwelve {
+  position: absolute;
+  top: 840px;
+  left: 970px;
+  width: 180px;
+  transform: rotate(-30deg);
+}
+.lineThirteen {
+  position: absolute;
+  top: 1200px;
+  left: 700px;
+  width: 212px;
+  transform: rotate(28deg);
+}
+.lineFourteen {
+  position: absolute;
+  top: 1500px;
+  left: 810px;
+  width: 300px;
+  transform: rotate(-85deg);
+}
+.fiveP {
+  position: absolute;
+  top: 1020px;
+  left: 600px;
+}
+.sixP {
+  position: absolute;
+  top: 850px;
+  left: 850px;
+}
+.sevenP {
+  position: absolute;
+  top: 670px;
+  left: 1150px;
+}
+.therdImg {
+  position: absolute;
+  top: 1025px;
+  left: -10px;
+}
+.section-3 {
+  position: relative;
+}
+.section-3 {
+  h1 {
+    font-size: 115px;
+    color: #ff7b72;
+    font-weight: bold;
+  }
+  .line {
+    height: 8px;
+    background-color: white;
+  }
+}
+h1 {
+  position: absolute;
+  top: 1700px;
+  left: 740px;
+}
+.smol1 {
+  font-size: 24px;
+  font-style: italic;
   color: white;
-  margin: 78px 414px;
+  position: absolute;
+  top: 1840.5px;
+  left: 690px;
 }
-.section-3 h1 {
-  color: #ff7b72;
-  width: 115px;
-  margin: 740px 1626px;
+.lineFifteen {
+  position: absolute;
+  top: 2000px;
+  left: 550px;
+  width: 300px;
+  transform: rotate(146deg);
 }
-.section-3 p11 {
-  width: 32px;
+.lineSixteen {
+  position: absolute;
+  top: 2010px;
+  left: 1050px;
+  width: 200px;
+  transform: rotate(-90deg);
+}
+.lineSeventeen {
+  position: absolute;
+  top: 2264px;
+  left: 747px;
+  width: 147px;
+  transform: rotate(-155deg);
+}
+.lineEighteen {
+  position: absolute;
+  top: 2374px;
+  left: 300px;
+  width: 136px;
+  transform: rotate(-90deg);
+}
+.text1 {
+  position: absolute;
+  top: 2137px;
+  left: 34px;
+  font-size: 32px;
   color: white;
-  margin: 34px 2137px;
+  line-height: 45.6px;
+}
+.text2 {
+  position: absolute;
+  top: 2488px;
+  left: 34px;
+  font-size: 32px;
+  color: white;
+  line-height: 45.6px;
+}
+img {
+  position: absolute;
+  left: 916px;
+  top: 2155px;
+  width: 460px;
+  height: 460px;
 }
