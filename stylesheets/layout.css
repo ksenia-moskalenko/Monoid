@@ -7,6 +7,7 @@ body {
   display: block;
   margin: 0 auto;
   font-family: "Monoid";
+
   background-color: #3d3d3f;
   overflow-x: hidden;
 }
@@ -268,12 +269,12 @@ h1 {
   top: 1700px;
   left: 740px;
 }
-.smol1 {
+.small1 {
   font-size: 24px;
   font-style: italic;
   color: white;
   position: absolute;
-  top: 1840.5px;
+  top: 1850px;
   left: 690px;
 }
 .lineFifteen {
@@ -326,4 +327,223 @@ img {
   top: 2155px;
   width: 460px;
   height: 460px;
+}
+.section-4 {
+  position: relative;
+}
+
+.square1 {
+  position: absolute;
+  top: 2867px;
+  left: 0px;
+  width: 1440px;
+  height: 1862px;
+  background-color: #ff7b72;
+}
+.ab2 {
+  position: absolute;
+  top: 2906px;
+  left: 61px;
+  font-size: 115px;
+  color: #3d3d3f;
+  font-weight: bold;
+}
+.abm1 {
+  position: absolute;
+  top: 3074.5px;
+  left: 636px;
+  font-size: 95.26px;
+  color: white;
+}
+.small2 {
+  font-size: 24px;
+  font-style: italic;
+  color: #3d3d3f;
+  position: absolute;
+  top: 3204.758px;
+  left: 737.535px;
+}
+.text3 {
+  position: absolute;
+  top: 3288px;
+  left: 489px;
+  font-size: 36px;
+  color: white;
+  line-height: 255%;
+}
+.text4 {
+  position: absolute;
+  top: 4145px;
+  left: 33px;
+  font-size: 36px;
+  color: white;
+  line-height: 255%;
+}
+.abm2 {
+  position: absolute;
+  top: 3944px;
+  left: 199.2305px;
+  font-size: 95.26px;
+  color: white;
+}
+.small3 {
+  font-size: 24px;
+  font-style: italic;
+  color: #3d3d3f;
+  position: absolute;
+  top: 4074.258px;
+  left: 182px;
+}
+.fourImg {
+  position: absolute;
+  top: 3350px;
+  left: -134px;
+}
+.fiveImg {
+  position: absolute;
+  top: 3934px;
+  left: 1084px;
+  transform: rotate(180deg);
+}
+.sixImg {
+  position: absolute;
+  top: 4520px;
+  left: -320px;
+}
+.section-5 {
+  position: relative;
+}
+.ab3 {
+  position: absolute;
+  top: 4905px;
+  left: 501px;
+  font-size: 115px;
+  color: #ff7b72;
+  font-weight: bold;
+}
+.text5 {
+  position: absolute;
+  top: 5136px;
+  left: 383px;
+  font-size: 24px;
+  color: white;
+  line-height: 32px;
+}
+.text6 {
+  position: absolute;
+  top: 5510px;
+  left: 206px;
+  font-size: 24px;
+  color: white;
+  line-height: 32px;
+}
+.text7 {
+  position: absolute;
+  top: 5446px;
+  left: 933px;
+  font-size: 24px;
+  color: white;
+  line-height: 32px;
+}
+.text8 {
+  position: absolute;
+  top: 5254px;
+  left: 42px;
+  font-size: 64px;
+  color: #ff7b72;
+  line-height: 85px;
+  font-weight: bolder;
+}
+.text9 {
+  position: absolute;
+  top: 5400px;
+  left: 680px;
+  font-size: 250px;
+  color: #ff7b72;
+  font-weight: bold;
+}
+.lineNineteen {
+  position: absolute;
+  top: 5145px;
+  left: 1000px;
+  width: 155px;
+  height: 8px;
+  background-color: white;
+  transform: rotate(90deg);
+}
+.lineTwenty {
+  position: absolute;
+  top: 5230px;
+  left: 691px;
+  width: 69px;
+  height: 8px;
+  background-color: white;
+  transform: rotate(-148.61deg);
+}
+.line21 {
+  position: absolute;
+  top: 5460px;
+  left: 206px;
+  width: 114px;
+  height: 8px;
+  background-color: white;
+  transform: rotate(-140deg);
+}
+.line22 {
+  position: absolute;
+  top: 5400px;
+  left: 399px;
+  width: 246px;
+  height: 8px;
+  background-color: white;
+  transform: rotate(-155deg);
+}
+.line23 {
+  position: absolute;
+  top: 5472px;
+  left: 882px;
+  width: 29px;
+  height: 8px;
+  background-color: white;
+  transform: rotate(180deg);
+}
+.line24 {
+  position: absolute;
+  top: 5261.5px;
+  left: 763px;
+  width: 170px;
+  height: 2px;
+  height: 2px;
+  background-color: white;
+  transform: rotate(0deg);
+}
+.line25 {
+  position: absolute;
+  top: 5325px;
+  left: 763px;
+  width: 170px;
+  height: 2px;
+  height: 2px;
+  background-color: white;
+  border: 2px dotted;
+  transform: rotate(0deg);
+}
+.line26 {
+  position: absolute;
+  top: 5340px;
+  left: 763px;
+  width: 170px;
+  height: 2px;
+  height: 2px;
+  background-color: white;
+  transform: rotate(0deg);
+}
+.circle4 {
+  position: absolute;
+  top: 5395px;
+  left: 709px;
+  width: 151px;
+  height: 151px;
+  border: 8px white solid;
+  border-radius: 100%;
 }
