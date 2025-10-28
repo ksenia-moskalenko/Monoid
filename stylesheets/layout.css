@@ -55,10 +55,11 @@ p {
     width: 317px;
     height: 317px;
     border-radius: 100%;
-    text-align: center;
-    padding: 41.5px;
+    padding-left: 67px;
+    padding-top: 50px;
     color: #ff7b72;
     font-size: 234px;
+    transition: 0.3s linear;
   }
   .line {
     height: 8px;
@@ -75,10 +76,18 @@ p {
   top: 30px;
   left: 150px;
 }
+.circleOne:hover {
+  background-color: #ff7b72;
+  color: white;
+}
 .circleTwo {
   position: absolute;
   top: 350px;
   left: 500px;
+}
+.circleTwo:hover {
+  background-color: #ff7b72;
+  color: white;
 }
 .lineOne {
   position: absolute;
@@ -187,8 +196,8 @@ p {
     width: 204px;
     height: 204px;
     border-radius: 100%;
-    text-align: center;
-    padding: 38px;
+    padding-left: 53px;
+    padding-top: 45px;
     color: white;
     font-size: 128px;
   }
@@ -205,6 +214,11 @@ p {
   position: absolute;
   top: 1200px;
   left: 875px;
+  transition: 0.3s linear;
+}
+.circleThree:hover {
+  background-color: #ffffff;
+  color: #ff7b72;
 }
 .lineEleven {
   position: absolute;
@@ -334,12 +348,15 @@ h1 {
 }
 .section-4 {
   position: relative;
-  /* background-color: #ff7b72;
-  margin-top: 3000px;
-  height: 1862px;
-  width: 1440px; */
+  display: block;
 }
-
+.o1 {
+  display: block;
+  background-color: #ff7b72;
+  width: 71px;
+  height: 71px;
+  border-radius: 100%;
+}
 .square1 {
   position: absolute;
   top: 2867px;
@@ -574,8 +591,13 @@ h1 {
   height: 151px;
   border: 8px white solid;
   border-radius: 100%;
+  transition: all 0.3s ease;
 }
-
+.circle4:hover {
+  -webkit-transform: scale(1.3);
+  -ms-transform: scale(1.3);
+  transform: scale(1.3);
+}
 .section-6 {
   display: inline-grid;
 }
@@ -776,7 +798,12 @@ h1 {
   border-radius: 100%;
   top: 800px;
   left: 1260px;
+  transition: 0.3s linear;
 }
+.circle5:hover {
+  background-color: #ff7b72;
+}
+
 .circle6 {
   position: absolute;
   background-color: white;
@@ -785,6 +812,10 @@ h1 {
   border-radius: 100%;
   top: 1000px;
   left: 1280px;
+  transition: 0.3s linear;
+}
+.circle6:hover {
+  background-color: #ff7b72;
 }
 .circle7 {
   position: absolute;
@@ -794,6 +825,10 @@ h1 {
   border-radius: 100%;
   top: 1200px;
   left: 302px;
+  transition: 0.3s linear;
+}
+.circle7:hover {
+  background-color: #ff7b72;
 }
 .circle8 {
   position: absolute;
@@ -803,6 +838,10 @@ h1 {
   border-radius: 100%;
   top: 1290px;
   left: 420px;
+  transition: 0.3s linear;
+}
+.circle8:hover {
+  background-color: #ff7b72;
 }
 .circle9 {
   position: absolute;
@@ -812,6 +851,10 @@ h1 {
   border-radius: 100%;
   top: 1490px;
   left: 450px;
+  transition: 0.3s linear;
+}
+.circle9:hover {
+  background-color: #ff7b72;
 }
 .circle10 {
   position: absolute;
@@ -821,6 +864,10 @@ h1 {
   border-radius: 100%;
   top: 1200px;
   left: 800px;
+  transition: 0.3s linear;
+}
+.circle10:hover {
+  background-color: #ff7b72;
 }
 .circle11 {
   position: absolute;
@@ -831,6 +878,7 @@ h1 {
   top: 1500px;
   left: 920px;
 }
+
 .circle12 {
   position: absolute;
   background-color: white;
@@ -839,6 +887,10 @@ h1 {
   border-radius: 100%;
   top: 2200px;
   left: 890px;
+  transition: 0.3s linear;
+}
+.circle12:hover {
+  background-color: #ff7b72;
 }
 .circle13 {
   position: absolute;
@@ -848,6 +900,10 @@ h1 {
   border-radius: 100%;
   top: 2690px;
   left: -202px;
+  transition: 0.3s linear;
+}
+.circle13:hover {
+  background-color: #ff7b72;
 }
 .circle14 {
   position: absolute;
@@ -857,6 +913,10 @@ h1 {
   border-radius: 100%;
   top: 2705px;
   left: 400px;
+  transition: 0.3s linear;
+}
+.circle14:hover {
+  background-color: #ff7b72;
 }
 .circle15 {
   position: absolute;
@@ -866,6 +926,10 @@ h1 {
   border-radius: 100%;
   top: 2650px;
   left: 1300px;
+  transition: 0.3s linear;
+}
+.circle15:hover {
+  background-color: #ff7b72;
 }
 .circle16 {
   position: absolute;
@@ -875,6 +939,10 @@ h1 {
   border-radius: 100%;
   top: 3985px;
   left: 400px;
+  transition: 0.3s linear;
+}
+.circle16:hover {
+  background-color: #ff7b72;
 }
 .circle17 {
   position: absolute;
@@ -884,6 +952,10 @@ h1 {
   border-radius: 100%;
   top: 3985px;
   left: 1300px;
+  transition: 0.3s linear;
+}
+.circle17:hover {
+  background-color: #ff7b72;
 }
 .line34 {
   position: absolute;
@@ -894,6 +966,7 @@ h1 {
   background-color: white;
   transform: rotate(-110.13deg);
 }
+
 .line35 {
   position: absolute;
   top: 2000px;
@@ -1020,6 +1093,7 @@ h1 {
   left: 962px;
 }
 .section-11 {
+  position: relative;
   display: flex;
   height: 296px;
 }
