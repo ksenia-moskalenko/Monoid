@@ -1,0 +1,33 @@
+<svg width="228" height="592" viewBox="0 0 228 592" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_402_410" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="228" height="592">
+<rect width="228" height="592" fill="#D9D9D9"/>
+</mask>
+<g mask="url(#mask0_402_410)">
+<path d="M133.498 212.5L133.498 239.13" stroke="#3D3D3F" stroke-width="7"/>
+<line y1="-3.5" x2="59.0673" y2="-3.5" transform="matrix(0.848135 0.529779 0.529779 -0.848135 66.8457 145.433)" stroke="#3D3D3F" stroke-width="7"/>
+<line y1="-3.5" x2="59.0673" y2="-3.5" transform="matrix(0.817958 -0.575278 -0.575278 -0.817958 -9.83594 184.242)" stroke="#3D3D3F" stroke-width="7"/>
+<line y1="-3.5" x2="59.0673" y2="-3.5" transform="matrix(-0.762094 -0.647466 -0.647466 0.762094 22.1816 333.967)" stroke="white" stroke-width="7"/>
+<line y1="-3.5" x2="59.0673" y2="-3.5" transform="matrix(-0.231414 -0.972855 -0.972855 0.231414 59.8027 425.788)" stroke="white" stroke-width="7"/>
+<line y1="-3.5" x2="59.0673" y2="-3.5" transform="matrix(-0.526301 -0.850299 -0.850299 0.526301 103.664 511.931)" stroke="white" stroke-width="7"/>
+<line y1="-3.5" x2="59.0673" y2="-3.5" transform="matrix(-0.941458 -0.337131 -0.337131 0.941458 165.832 548.616)" stroke="white" stroke-width="7"/>
+<line y1="-3.5" x2="29.903" y2="-3.5" transform="matrix(-0.606124 0.795371 0.795371 0.606124 103.664 532.928)" stroke="white" stroke-width="7"/>
+<line y1="-3.5" x2="42.7346" y2="-3.5" transform="matrix(-0.805056 0.593199 0.593199 0.805056 52.9629 461.706)" stroke="white" stroke-width="7"/>
+<line y1="-3.5" x2="59.0673" y2="-3.5" transform="matrix(-0.837617 0.546259 0.546259 0.837617 113.477 296)" stroke="white" stroke-width="7"/>
+<line x1="133.5" y1="239" x2="133.501" y2="258.266" stroke="white" stroke-width="7"/>
+<line y1="-3.5" x2="38.1782" y2="-3.5" transform="matrix(-0.774661 -0.632376 -0.632376 0.774661 206.875 117.668)" stroke="#3D3D3F" stroke-width="7"/>
+<line y1="-3.5" x2="29.3029" y2="-3.5" transform="matrix(-0.535542 0.844509 0.844509 0.535542 157.986 97.147)" stroke="#3D3D3F" stroke-width="7"/>
+<circle cx="26" cy="26" r="26" transform="matrix(-1 0 0 1 192 51)" fill="#3D3D3F"/>
+<circle cx="13.5" cy="13.5" r="13" transform="matrix(-1 0 0 1 228 109)" fill="#3D3D3F" stroke="#3D3D3F"/>
+<circle cx="25.5" cy="25.5" r="25.5" transform="matrix(-1 0 0 1 161 113)" fill="#3D3D3F"/>
+<circle cx="28.5" cy="28.5" r="28.5" transform="matrix(-1 0 0 1 158 160)" fill="#3D3D3F"/>
+<ellipse cx="28" cy="28.5" rx="28" ry="28.5" transform="matrix(-1 0 0 1 81 116)" fill="#3D3D3F"/>
+<circle cx="28.5" cy="28.5" r="28.5" transform="matrix(-1 0 0 1 75 314)" fill="#FFFEFE"/>
+<circle cx="36.5" cy="36.5" r="36.5" transform="matrix(-1 0 0 1 101 404)" fill="#FFFEFE"/>
+<circle cx="22" cy="22" r="22" transform="matrix(-1 0 0 1 133 501)" fill="#FFFEFE"/>
+<circle cx="16.5" cy="16.5" r="16.5" transform="matrix(-1 0 0 1 188 532)" fill="#FFFEFE"/>
+<circle cx="7.5" cy="7.5" r="7.5" transform="matrix(-1 0 0 1 90 550)" fill="#FFFEFE"/>
+<ellipse cx="28" cy="28.5" rx="28" ry="28.5" transform="matrix(-1 0 0 1 5 161)" fill="#3D3D3F"/>
+<circle cx="23" cy="23" r="23" transform="matrix(-1 0 0 1 33 462)" fill="#FFFEFE"/>
+<circle cx="28" cy="28" r="28" transform="matrix(-1 0 0 1 153 248)" fill="white"/>
+</g>
+</svg>
